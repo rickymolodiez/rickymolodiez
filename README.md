@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rickymolodiez
+- 👋 Hi, I’m @rickymolodiez, Mexican CS Student in Montréal.
 - 👀 I’m interested in Software Development
 - 📫 How to reach me: rickymoloqc@gmail.com
 - ⚡ Fun fact: I enjoy languages, music and food.
