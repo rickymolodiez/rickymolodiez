@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rickymolodiez, Mexican CS Student in Montréal.
-- 👀 I’m interested in low-level development
+- 👀 I’m interested in software development
 - 📫 How to reach me: rickymoloqc@gmail.com
 
 
