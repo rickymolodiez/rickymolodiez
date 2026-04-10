@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rickymolodiez, Mexican CS Student in Montréal.
-- 👀 Systems software developer — C/C++, CUDA, x86/RISC-V. Interested in kernels, CPU and GPU architecture. Concordia CS
+- 👀 Systems software developer — C/C++, Java, CUDA, x86/RISC-V. Interested in kernels, CPU and GPU architecture. Concordia CS
 - 📫 How to reach me: rickymoloqc@gmail.com
 
 
